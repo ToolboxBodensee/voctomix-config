@@ -1,6 +1,8 @@
  voxtomix-config
 ==============
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/streaming/voctomix-config). Auf GitHub befindet sich lediglich ein Mirror**
+
 Here is the voctomix configuration from the Toolbox VOC stored.
 
 The git directory should be stored under this path:
